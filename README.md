@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MePromiser
-- 👀 I’m interested in deeplearning and complex network
+- 👀 I’m interested in deep learning and complex network
 - 🌱 I’m currently learning reinforcement learning and gnn.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
